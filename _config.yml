@@ -95,7 +95,7 @@ service-worker: true
 friends: [
     {
         title: "WY",
-        href: "http://zhengwuyang.com"
+        href: "http://yanzhixu.xyz"
     },{
         title: "简书·BY",
         href: "http://www.jianshu.com/users/28090a7d135a/timeline"

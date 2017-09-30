@@ -98,8 +98,7 @@ friends: [
         href: "http://yanzhixu.xyz"
     },{
         title: "简书·BY",
-        href:"http://www.jianshu.com/u/28090a7d135a"
-        # href: "http://www.jianshu.com/users/28090a7d135a/timeline"
+         href: "http://www.jianshu.com/u/28090a7d135a"
     },{
         title: "Apple",
         href: "https://apple.com"

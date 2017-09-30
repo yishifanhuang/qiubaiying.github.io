@@ -94,7 +94,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
+        title: "blog",
         href: "http://yanzhixu.xyz"
     },{
         title: "简书·BY",

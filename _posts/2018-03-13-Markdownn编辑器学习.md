@@ -27,7 +27,7 @@ Markdown是一种可以使用普通文本编辑器编写的标记语言，通过
 Markdown的语法简洁明了、学习容易，而且功能比纯文本更强，因此有很多人用它写博客。世界上最流行的博客平台WordPress和大型CMS如Joomla、Drupal都能很好的支持Markdown。完全采用Markdown编辑器的博客平台有Ghost和Typecho。  
 学习这个的原因就是写私人微博中需要用到markdown的常用格式，以下是markdown的常见格式。
 
->标题
+# 标题
 标题能显示出文章的结构。行首插入1-6个 # ，每增加一个 # 表示更深入层次的内容，对应到标题的深度由 1-6 阶。
 H1 :# Header 1  
 H2 :## Header 2  
@@ -71,8 +71,8 @@ H6 :###### Header 6
 图片的外链可以使用路过图床上次免费而且可以多个上传得出markdown外链地址 
 
 后记、参考网站  
-Markdown Basics (https://help.github.com/articles/markdown-basics)  
-Mastering Markdown (https://guides.github.com/features/mastering-markdown/)  
-GitHub Flavored Markdown (https://help.github.com/articles/github-flavored-markdown)  
-Markdown 百度百科  (https://baike.baidu.com/item/markdown/3245829?fr=aladdin)  
+Markdown Basics [Markdown Basics](https://help.github.com/articles/markdown-basics)  
+Mastering Markdown [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  
+GitHub Flavored Markdown [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)  
+Markdown 百度百科  [Markdown 百度百科](https://baike.baidu.com/item/markdown/3245829?fr=aladdin)  
 

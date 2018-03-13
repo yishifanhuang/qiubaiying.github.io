@@ -70,9 +70,9 @@ H6 :###### Header 6
 ！[提示文字]https://s1.ax1x.com/2018/03/13/9htBmd.png
 图片的外链可以使用路过图床上次免费而且可以多个上传得出markdown外链地址 
 
-后记、参考网站
-Markdown Basics https://help.github.com/articles/markdown-basics
-Mastering Markdown https://guides.github.com/features/mastering-markdown/
-GitHub Flavored Markdown https://help.github.com/articles/github-flavored-markdown
-Markdown 百度百科  https://baike.baidu.com/item/markdown/3245829?fr=aladdin
+后记、参考网站  
+Markdown Basics https://help.github.com/articles/markdown-basics  
+Mastering Markdown https://guides.github.com/features/mastering-markdown/  
+GitHub Flavored Markdown https://help.github.com/articles/github-flavored-markdown  
+Markdown 百度百科  https://baike.baidu.com/item/markdown/3245829?fr=aladdin  
 

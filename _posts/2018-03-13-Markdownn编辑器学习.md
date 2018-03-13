@@ -15,11 +15,11 @@ tags:
 # 工具介绍
 Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，可以简单的使普通文本内容具有一定的格式化。
 
-| 名称     | Markdown   |  宗旨  | 易读易写  
-| -------- | :-----:  | :----:  |:----: |  
-| 应用   |文档快速排版  |   特点   | 轻量、简单、通用  
-|   格式  |    LaTeX，Docbook  |   开发者   |    John Gruber   |  
-|      |       |  文件后缀名   |.md;.markdown;.mdown       |  
+ 名称     | Markdown   |  宗旨  | 易读易写  
+ -------- | :-----:  | :----:  |:----:   
+ 应用   |文档快速排版  |   特点   | 轻量、简单、通用  
+   格式  |    LaTeX，Docbook  |   开发者   |    John Gruber     
+      |       |  文件后缀名   |.md;.markdown;.mdown        
 # 用途
 Markdown的语法简洁明了、学习容易，而且功能比纯文本更强，因此有很多人用它写博客。世界上最流行的博客平台WordPress和大型CMS如Joomla、Drupal都能很好的支持Markdown。完全采用Markdown编辑器的博客平台有Ghost和Typecho。  
 学习这个的原因就是写私人微博中需要用到markdown的常用格式，以下是markdown的常见格式。
